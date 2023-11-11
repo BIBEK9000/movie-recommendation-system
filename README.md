@@ -1,2 +1,2 @@
-# movie-recommendation-project
-It's movie recommendation project using content based filtering.
+# movie-recommendation-system-tmdb-dataset
+A content based movie recommender system using cosine similarity
